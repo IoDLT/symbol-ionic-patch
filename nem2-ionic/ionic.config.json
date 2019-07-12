@@ -1,0 +1,7 @@
+{
+  "name": "nem2-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
