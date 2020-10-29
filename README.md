@@ -1,4 +1,4 @@
- # NEM2 Ionic Patch & Template
+ # Symbol Ionic Patch & Template
  
  This repo contains a patch file (`patch.js`) to enable a developer to develop Catapult mobile apps via Ionic and Capacitor.   Using this, you can interact via REST gateway of Catapult using websockest and RxJs API calls. 
 
@@ -7,13 +7,13 @@
  To start, clone this repo: 
 
  ``` 
- $ git clone https://github.com/CrackTheCode016/nem2-ionic-patch.git
+ $ git clone https://github.com/CrackTheCode016/symbol-ionic-patch.git
  ```
 
  Next, install dependencies:
  
   ```
-  $ cd nem2-ionic-patch
+  $ cd symbol-ionic-patch
   $ npm install
   ```
 

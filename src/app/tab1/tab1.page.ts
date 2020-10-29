@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { Account, NetworkType } from '../../../node_modules/nem2-sdk';
+import { Account, NetworkType } from 'symbol-sdk';
 
 @Component({
   selector: 'app-tab1',
